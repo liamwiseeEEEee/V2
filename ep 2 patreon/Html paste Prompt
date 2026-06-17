@@ -1,0 +1,14 @@
+I'm giving you a complete, self-contained finance dashboard as a single HTML file (pasted at the bottom of this message). Swap out my CURRENT finance page and replace it with this new one.
+
+Do this:
+1. Find my existing finance page (probably `finance.html`, or whatever file my dashboard's "Finance" button links to).
+2. Replace that file's ENTIRE contents with the HTML pasted below — overwrite it completely, do not merge or cherry-pick.
+3. Keep the same filename so my dashboard's navigation/link still opens it and nothing else breaks.
+4. Do NOT touch any of my other pages or files.
+5. Tell me exactly which file you replaced when you're done.
+
+This page is fully standalone — it stores data in the browser (localStorage), needs no server, and AI features use a key the user pastes in-app. Don't add a backend or change anything else.
+
+Here is the new finance dashboard HTML:
+
+[PASTE THE FINANCE HTML HERE]
